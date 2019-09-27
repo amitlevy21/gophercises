@@ -10,3 +10,6 @@ This repository contains my solutions of <https://gophercises.com>.
 * URLshort
   * [Problem definition](https://github.com/gophercises/urlshort/tree/cc800dbaf41101716038414defdcb0f76ba94d3c)
   * [Solution](https://github.com/amitlevy21/gophercises/tree/master/urlshort)
+* Choose your own advanture
+  * [Problem definition](https://github.com/gophercises/cyoa/tree/070143bf424e1242dfe945eae43bfa4684ba6e91)
+  * [Solution](https://github.com/amitlevy21/gophercises/tree/master/cyoa)
