@@ -13,3 +13,7 @@ This repository contains my solutions of <https://gophercises.com>.
 * Choose your own advanture
   * [Problem definition](https://github.com/gophercises/cyoa/tree/070143bf424e1242dfe945eae43bfa4684ba6e91)
   * [Solution](https://github.com/amitlevy21/gophercises/tree/master/cyoa)
+* Task CLI
+  * [Problem definition](https://github.com/gophercises/task/tree/a28fa0c510b61fb5e0f39507d1629de3eddc1b1b)
+  * [Solution](https://github.com/amitlevy21/gophercises/tree/master/taskCLI)
+
